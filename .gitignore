@@ -1,0 +1,11 @@
+data/
+data_old/
+data_practice/
+data_try2/
+models/*.h5
+models/*.tflite
+__pycache__/
+*.pyc
+python
+models/
+!models/*.png
